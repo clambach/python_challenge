@@ -9,7 +9,7 @@ change = []
 change1 = []
 
 #Pull the csv file
-csvpath = 'PyBank/Resources/budget_data.csv'
+csvpath = 'Instructions-4/PyBank/Resources/budget_data.csv'
 
 #open csv
 with open(csvpath) as csvfile:
