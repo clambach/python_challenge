@@ -2,9 +2,7 @@ import os
 import csv
  
 #Variables and lists to store data
-total = 0
 count = []
-per = []
 change = []
 unique = []
 candidates = []
